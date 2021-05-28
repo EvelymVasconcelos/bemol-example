@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-const CapaWrapper = styled.div`
+export const CapaWrapper = styled.div`
     width: 100%;
     background-color: orange;
     height: 93vh;

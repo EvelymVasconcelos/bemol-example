@@ -1,4 +1,5 @@
 import React from 'react';
+import { CapaWrapper } from './styles/CapaWrapper';
 
 export default function Capa(){
     return (
